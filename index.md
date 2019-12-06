@@ -1,1 +1,47 @@
-Test
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Lausanne Citation Style</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Lausanne Citation Style</h1>
+        <img src="https://raw.githubusercontent.com/maladesimaginaires/intnetviz/gh-pages/img/intnetviz_graph.png" alt="Intnetviz_graph" style="width:200px;">
+        <h3>Ressources bibliographiques</h3> 
+        <p>Description du projet</p>
+        <table style="width:100%">
+          <tr>
+            <td><i class="material-icons">menu</i></td>
+          </tr>
+          <tr>
+            <td><a href="">ACCUEIL</a></td>
+          </tr>
+          <tr>
+            <td><b><a href="">ZOTERO</a></b></td>
+          </tr>
+          <tr>
+            <td><a href="">STYLE</a></td>
+          </tr>
+        </table>
+        <img src="https://raw.githubusercontent.com/maladesimaginaires/intnetviz/master/img/logo_unil.png" alt="UNIL" style="width:150px;">    
+        <p><small>Un projet de la section d'histoire de l'Université de Lausanne</small></p>
+      </header>
+      <section>
+        <h2>Le logiciel Zotero</h2>
+        <p>Description</p>
+      </section>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
