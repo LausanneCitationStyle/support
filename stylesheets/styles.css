@@ -58,7 +58,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color:##444444;
   font-weight:400;
 }
 
@@ -88,7 +88,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#ff6600;
+  color:#0288d6;
   text-decoration:none;
 }
 
@@ -98,13 +98,13 @@ a:hover {
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#0288d6;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#0288d6;
 }
 
 .wrapper {
@@ -158,7 +158,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:250px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
