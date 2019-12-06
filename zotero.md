@@ -1,6 +1,5 @@
 <html>
   <body>
-    <div class="wrapper">
       <header>
         <h1>ABOUT</h1>
         <img src="https://raw.githubusercontent.com/maladesimaginaires/intnetviz/gh-pages/img/intnetviz_graph.png" alt="Intnetviz_graph" style="width:200px;">
@@ -42,9 +41,6 @@
         <p><b><font color="black">Martin GRANDJEAN</font></b> | History Department, UNIL.<br>
         <small>Web: <a href="http://www.martingrandjean.ch">martingrandjean.ch</a> Twitter: <a href="https://twitter.com/GrandjeanMartin">@GrandjeanMartin</a></small></p>
 
-      </section>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
+      </section> 
   </body>
 </html>
