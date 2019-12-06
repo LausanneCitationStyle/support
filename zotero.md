@@ -1,4 +1,5 @@
- <div class="wrapper">
+<body>
+<div class="wrapper">
       <header>
         <h1>ABOUT</h1>
         <img src="https://raw.githubusercontent.com/maladesimaginaires/intnetviz/gh-pages/img/intnetviz_graph.png" alt="Intnetviz_graph" style="width:200px;">
