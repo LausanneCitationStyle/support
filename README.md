@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Mini site web Zotero + Style Lausanne
 
-You can use the [editor on GitHub](https://github.com/LausanneCitationStyle/Support/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Projet de plateforme regroupant des ressources utiles à la gestion de références bibliographiques. En particulier, un tutoriel Zotero complet et une présentation du style de Lausanne.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### HTML
+Le mini site est en HTML. Voir [cette page](https://www.w3schools.com/html/html_basic.asp) pour des balises simples, ainsi que les autres pages du même site pour aller dans le détail (par ex. les [styles](https://www.w3schools.com/html/html_styles.asp) de base).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Github Markdown
+
+Le Markdown est la syntaxe utilisée pour les pages Github (comme celle-ci). Ci-dessous quelques éléments utiles (voir [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) pour plus de détails):
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +28,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LausanneCitationStyle/Support/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
