@@ -75,7 +75,8 @@ p, ul, ol, table, pre, dl {
   background-color: #e6f6ff;
   border: 1px solid #0288d6;
   color: #0288d6;
-  margin: 10px -5px 10px -5px;
+  margin: 10px 0px 10px 0px;
+  padding: 10px;
 }
 
 h1, h2, h3 {
