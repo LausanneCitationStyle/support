@@ -71,6 +71,11 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+.note {
+  background-color: #e6f6ff;
+  border-left: 6px solid #0288d6;
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
@@ -136,10 +141,11 @@ pre {
 table {
   width:100%;
   border-collapse:collapse;
+}
+
   border: 1px solid #0288d6;
   background-color: #e6f6ff;
   color: #0288d6;
-}
 
 th, td {
   text-align:left;
