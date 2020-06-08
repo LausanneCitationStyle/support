@@ -73,7 +73,9 @@ p, ul, ol, table, pre, dl {
 
 .note {
   background-color: #e6f6ff;
-  border-left: 6px solid #0288d6;
+  border: 1px solid #0288d6;
+  color: #0288d6;
+  margin: 10px 20px 10px 20px;
 }
 
 h1, h2, h3 {
