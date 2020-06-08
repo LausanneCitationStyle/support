@@ -145,10 +145,6 @@ table {
   border-collapse:collapse;
 }
 
-  border: 1px solid #0288d6;
-  background-color: #e6f6ff;
-  color: #0288d6;
-
 th, td {
   text-align:left;
   padding:5px 10px;
