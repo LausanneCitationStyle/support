@@ -71,11 +71,15 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+p {
+  text-align: justify;
+}
+
 .note {
   background-color: #e6f6ff;
   border: 1px solid #0288d6;
   color: #0288d6;
-  margin: 10px 0px 10px 0px;
+  margin: 5px 0px 5px 0px;
   padding: 10px;
 }
 
@@ -88,11 +92,11 @@ h1 {
 }
 
 h2 {
-  color:#393939;
+  color:#222;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#222;
 }
 
 a {
