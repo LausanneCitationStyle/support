@@ -80,7 +80,9 @@ p {
   border: 1px solid #0288d6;
   color: #0288d6;
   margin: 5px 0px 5px 0px;
-  padding: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
 }
 
 h1, h2, h3 {
