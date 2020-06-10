@@ -71,6 +71,25 @@
 <div class="note">
 <p>Ces usages sont décrits plus en détail dans la quatripme partie du tutoriel, intitulée "<a href="https://lausannecitationstyle.github.io/support/4.html">Usage des références</a>".</p>
 </div>
+        <h2>Cas particuliers</h2>
+        <p>Certains cas particuliers demandent une compréhension plus avancée des champs composant une notice Zotero ou sont tout simplement trop complexes pour être automatisés entièrement.</p>
+        <p><strong>R&eacute;&eacute;dition</strong></p>
+<p>Lorsqu&#39;il s&#39;agit d&#39;une r&eacute;&eacute;dition, le style de citation demande d&#39;indiquer la date de la r&eacute;&eacute;dition avec son num&eacute;ro en exposant, ainsi que la date originale entre crochets. Exemple: <span style="font-size: 12pt; font-family: Garamond, serif;">1979<sup>4</sup> [1957]</span></p>
+<p><span style="font-size: 12pt; font-family: Garamond, serif;">Dans Zotero, indiquer &quot;4&quot; dans le champ &quot;Edition&quot; et &quot;original date: 1957&quot; dans le champ &quot;Extra&quot;.</span></p>
+<p><strong>Indications r&eacute;tablies</strong></p>
+<p>Alors que les champs vides sont automatiquement indiqu&eacute;s par des <span style="font-size: 12pt; font-family: Garamond, serif;">[s.l.], [s.n.] ou [s.d.], les indications r&eacute;tablies doivent inclure les crochets carr&eacute;s.&nbsp;</span></p>
+<p><span style="font-size: 12pt; font-family: Garamond, serif;">Dans Zotero, indiquer par exemple &quot;[Paris]&quot; dans le champ &quot;Lieu&quot;.</span></p>
+<p><span style="font-size: 12pt; font-family: Garamond, serif;"><strong>Publication s&#39;&eacute;tendant sur plusieurs ann&eacute;es</strong></span></p>
+<p>Reconnaissant et simplifiant automatiquement tout ce qui a la forme d&rsquo;une date dans le champ &quot;ann&eacute;e&quot; (ce qui est tr&egrave;s pratique lorsque le catalogue importe automatiquement &quot;juin 1976&quot; ou &quot;23-07-2003&quot;), Zotero transformera &quot;1973-1978&quot; en &quot;1973&quot;. S&rsquo;il s&rsquo;agit d&rsquo;un ouvrage publi&eacute; en plusieurs volumes sur plusieurs ann&eacute;es, il faut remplacer le trait d&rsquo;union par un tiret bas &quot;_ &quot;. Zotero exportera donc une r&eacute;f&eacute;rence contenant les deux dates :</p>
+<p>MICHELET, Jules, <em>Histoire de la R&eacute;volution fran&ccedil;aise</em>, Paris : Chamerot, 1847_1853, 10 vol.</p>
+<p>Il suffit ensuite de corriger la r&eacute;f&eacute;rence dans le document en transformant le &quot;_&quot; en &quot;-&quot;.</p>
+<p><strong>Indication de la collection</strong></p>
+<p>Par d&eacute;faut, le style Zotero n&rsquo;affiche pas le nom de la collection, qui peut &ecirc;tre rajout&eacute; &agrave; la main. Ceci est d&ucirc; au fait que seules certaines collections influencent r&eacute;ellement le lecteur, &quot;Rep&egrave;res&quot;, &quot;Que Sais-Je?&quot;, par exemple, alors que les ouvrages sont en g&eacute;n&eacute;ral toujours class&eacute;s dans une collection qui sera import&eacute;e automatiquement et allongerait la r&eacute;f&eacute;rence.</p>
+<p><strong>Plusieurs &eacute;diteurs et plusieurs lieux</strong></p>
+<p>Le style affiche &quot;[Lieu]:[Editeur]&quot; quel que soit le contenu de ces champs et ne peut pas tenir compte d&rsquo;une situation dans laquelle on trouverait deux &eacute;diteurs situ&eacute;s dans des lieux diff&eacute;rents puisque les lieux seront affich&eacute;s ensemble, ainsi que les &eacute;diteurs (&quot;[Lieu1;Lieu2]:[Editeur1;Editeur2]&quot;) tel que dans cet exemple :</p>
+<p>GILMONT, Jean-Fran&ccedil;ois, Le livre &amp; ses secrets, Gen&egrave;ve ; Louvain-la-Neuve : Droz ; Presses universitaires de Louvain, 2003, 440 p.</p>
+<p>Il s&rsquo;agit donc de corriger cette r&eacute;f&eacute;rence dans le document/la bibliographie pour r&eacute;tablir l&#39;ordre &quot;[Lieu1]:[Editeur1] ; [Lieu2]:[Editeur2]</p>
+<p>Une publication ayant plusieurs &eacute;diteurs mais le m&ecirc;me lieu ou &agrave; l&rsquo;inverse un seul &eacute;diteur et plusieurs lieux ne pose pas de probl&egrave;me puisque &quot;[Lieu]:[Editeur1;Editeur2]&quot; ou &quot;[Lieu1;Lieu2]:[Editeur]&quot; (situation fr&eacute;quente) ne cr&eacute;ent pas de malentendu.</p>
       </section>
     </div>
     <script src="javascripts/scale.fix.js"></script>
