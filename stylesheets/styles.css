@@ -79,7 +79,7 @@ p {
   background-color: #e6f6ff;
   border: 1px solid #0288d6;
   color: #0288d6;
-  margin: 5px 0px 5px 0px;
+  margin: 0px 0px 0px 0px;
   padding-left: 10px;
   padding-top: 10px;
   padding-right: 10px;
@@ -95,6 +95,20 @@ p {
 
 p.smallcaps {
   font-variant: small-caps;
+}
+
+figure {
+  border: 1px solid #e6e6e6;
+  padding: 3px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: ;
+  color: #919191;
+  font-style:;
+  padding: 2px;
+  text-align: left;
 }
 
 h1, h2, h3 {
