@@ -79,18 +79,20 @@ p {
   background-color: #e6f6ff;
   border: 1px solid #0288d6;
   color: #0288d6;
-  margin: 0px 0px 0px 0px;
+  margin: 5px 0px 10px 0px;
   padding-left: 10px;
   padding-top: 10px;
   padding-right: 10px;
+  padding-bottom: 0px;
 }
 
 .notezotero {
   border: 1px solid #808080;
-  margin: 5px 0px 5px 0px;
+  margin: 5px 0px 10px 0px;
   padding-left: 10px;
   padding-top: 10px;
   padding-right: 10px;
+  padding-bottom: 0px;
 }
 
 p.smallcaps {
