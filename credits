@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Lausanne - Style de citation Zotero | Université de Lausanne</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <p style="text-align:center;"><a href="https://lausannecitationstyle.github.io/support/"><img src="https://raw.githubusercontent.com/LausanneCitationStyle/Support/master/media/lausannelogo.png" alt="Lausanne citation style" style="width:200px;"></a>
+          <br><b>Style bibliographique</b><br>et intégration à Zotero</p>
+        <table style="width:100%">
+          <tr>
+            <td><a href="https://lausannecitationstyle.github.io/support/">ACCUEIL</a></td>
+          </tr>
+          <tr>
+            <td>STYLE BIBLIOGRAPHIQUE</td>
+          </tr>
+          <tr>
+           <td>&nbsp;&nbsp;&nbsp;<a href="https://lausannecitationstyle.github.io/support/style-lausanne.html">Le style "Lausanne"</a><br>
+             &nbsp;&nbsp;&nbsp;<small>Description, guide bibliographique.</small></td>
+          </tr>
+           <tr>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://lausannecitationstyle.github.io/support/lausanne-zotero.html">Usage du style avec Zotero</a><br>
+             &nbsp;&nbsp;&nbsp;<small>Installation, limites, ajustements.</small></td>
+          </tr>
+          <tr>
+            <td>TUTORIEL ZOTERO</td>
+          </tr>
+           <tr>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://lausannecitationstyle.github.io/support/1.html">Mise en place</a><br>
+             &nbsp;&nbsp;&nbsp;<small>Installation, interface, synchronisation.</small></td>
+          </tr>
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://lausannecitationstyle.github.io/support/2.html">Import des références</a><br>
+            &nbsp;&nbsp;&nbsp;<small>Champs, PDF, import automatique.</small></td>
+          </tr>
+          <tr>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://lausannecitationstyle.github.io/support/3.html">Gestion des références</a><br>
+            &nbsp;&nbsp;&nbsp;<small>Collections, marqueurs, notes, groupes.</small></td>
+          </tr>
+           <tr>
+            <td>&nbsp;&nbsp;&nbsp;<a href="https://lausannecitationstyle.github.io/support/4.html">Usage des références</a><br>
+             &nbsp;&nbsp;&nbsp;<small>Export, notes de bas de pages.</small></td>
+          </tr>
+          <tr>
+            <td>RESSOURCES</td>
+          </tr>
+           <tr>
+            <td>&nbsp;&nbsp;&nbsp;<b><a href="https://lausannecitationstyle.github.io/support/ressources.html">Liens utiles</a></b><br>
+             &nbsp;&nbsp;&nbsp;<small>Vidéos, tutoriels, retours d'expérience.</small></td>
+          </tr>
+        </table>
+      </header>
+
+<section>
+<h1>CREDITS</h1>
+<h2>Site web</h2>
+Mini-site créé en 2020 par Martin GRANDJEAN et Tania ROCHAT pour la section d'histoire UNIL, puis maintenu par Martin GRANDJEAN et enrichi par Leonie NUSSBAUM (2023).
+DOI: <a href="https://doi.org/10.5281/zenodo.3887645">10.5281/zenodo.3887645</a>. 
+Voir le projet sur <a href="https://github.com/LausanneCitationStyle">GitHub</a>.
+
+<h2>Style Lausanne "Histoire"</h2>
+Style de citation bibliographique créé en 2018 par Nicolas CHACHEREAU et Martin GRANDJEAN pour la section d'histoire UNIL puis mis à jour par Nicolas CHACHEREAU en 2020. 
+DOI: <a href="https://doi.org/10.5281/zenodo.1478505">10.5281/zenodo.1478505</a>.
+
+<h2>Style Lausanne "ASA"</h2>
+Style de citation bibliographique créé en 2023 par Leonie NUSSBAUM pour la section d'archéologie et de sciences de l'antiquité UNIL.
+
+</section>
+
+</div>
+<script src="javascripts/scale.fix.js"></script>
+</body>
+</html>
