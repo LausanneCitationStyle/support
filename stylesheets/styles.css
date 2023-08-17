@@ -180,7 +180,7 @@ table {
   border-collapse:collapse;
 }
 
-th, td {
+td {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
@@ -192,7 +192,10 @@ dt {
 }
 
 th {
-  color:#444;
+  color:#222;
+  text-align: center;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
 }
 
 img {
