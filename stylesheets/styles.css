@@ -154,12 +154,21 @@ a:hover small {
   margin:0 auto;
 }
 
+blockquote.asa {
+  border-left:1px solid #e5e5e5;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:normal;
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
 }
+
+
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
@@ -180,10 +189,19 @@ table {
   border-collapse:collapse;
 }
 
+
 td {
   text-align:left;
+  text-indent: 0.3cm;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
+}
+
+td.menu {
+  font-style: normal;
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #ffffff;
 }
 
 td img{
@@ -200,6 +218,7 @@ dt {
 th {
   color:#222;
   text-align: center;
+  text-indent: 0cm;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
 }
