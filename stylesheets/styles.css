@@ -155,9 +155,11 @@ a:hover small {
 }
 
 blockquote.asa {
-  border-left:1px solid #e5e5e5;
-  margin:0;
-  padding:0 0 0 20px;
+  text-align: justify;
+  color: #0288d6;
+  background-color: #e6f6ff;
+  border: 1px solid #0288d6;
+  padding:0 20px 0 20px;
   font-style:normal;
 }
 
@@ -198,6 +200,13 @@ td {
 }
 
 td.menu {
+  font-style: normal;
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #ffffff;
+}
+
+td.head-menu {
   font-style: normal;
   text-align:left;
   padding:5px 10px;
