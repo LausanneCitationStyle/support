@@ -199,20 +199,6 @@ td {
   border-bottom:1px solid #e5e5e5;
 }
 
-td.menu {
-  font-style: normal;
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #ffffff;
-}
-
-td.head-menu {
-  font-style: normal;
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #ffffff;
-}
-
 td img{
     display: block;
     margin-left: auto;
